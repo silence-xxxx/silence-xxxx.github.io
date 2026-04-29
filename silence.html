@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+
+    <style>
+        html, body {
+            margin:0;
+            padding:0;
+            background:black;
+            color:white;
+            font-family:sans-serif;
+            overflow:hidden;
+        }
+
+        /* 배경 */
+        .bg {
+            position:fixed;
+            width:100%;
+            height:100%;
+            background:#000000 center/cover no-repeat;
+            z-index:-1;
+        }
+
+        /* 오른쪽 정렬 (중앙 기준 오른쪽 붙이기) */
+        .center {
+            position:fixed;
+            top:50%;
+            left:50%;
+            transform:translate(-50%, -50%);
+            text-align:center;
+        }
+
+        .buttons {
+            position:fixed;
+            top:66%;
+            left:50%;
+            transform:translate(-50%, -25%);
+            gap:20px;
+            text-align:center;
+        }
+        
+        .buttons a {
+            margin:0;
+            color:white;
+            text-decoration:none;
+            cursor:pointer;
+        }
+
+        /* 패널 (완전히 숨기기) */
+        .panel {
+            position:fixed;
+            top:0;
+            left:-500px; /* width보다 크게 */
+            width:480px;
+            height:100%;
+            background:rgba(0,0,0,0.9);
+            padding:20px;
+            transition:0.2s;
+            overflow-y:auto;
+            z-index:10;
+        }
+        .panel.active { left:0; }
+
+        /* 닫기 버튼 */
+        .close-btn {
+            margin-bottom:10px;
+            cursor:pointer;
+            opacity:0.7;
+        }
+
+        /* 갤러리 */
+        .grid {
+            display:grid;
+            grid-template-columns:repeat(3,1fr);
+            gap:8px;
+        }
+        .grid img {
+            width:100%;
+            cursor:pointer;
+        }
+
+        .viewer {
+            position:fixed;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+            display:none;
+            width:90%;
+            height:90%;
+            z-index:20;
+            pointer-events:none; /* 핵심 */
+        }
+
+        .viewer img {
+            width:100%;
+            height:100%;
+            object-fit:contain;
+            pointer-events:auto; /* 이미지에만 클릭 허용 */
+            cursor:pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="bg"></div>
+
+<div class="center">
+    <h1 style="font-size: 64px;">( ' x ' )</h1>
+</div>
+
+<div class="buttons">
+    <p style="font-size: 18px;opacity:0.5;">- project silence -</p>
+    <p style="font-size: 24px;"><a onclick="toggleGallery()">Unwritten Saga: The Circle</a></p>
+</div>
+
+<!-- 갤러리 -->
+<div id="gallery" class="panel">
+    <div class="close-btn" onclick="closePanels()">[ X ]</div>
+    <div class="grid">
+        <img src="the_circle/TheCircle_Gallery01.png" onclick="view(event, this.src)">
+        <img src="the_circle/TheCircle_Gallery02.png" onclick="view(event, this.src)">
+        <img src="the_circle/TheCircle_Gallery03.png" onclick="view(event, this.src)">
+        <img src="the_circle/TheCircle_Gallery04.png" onclick="view(event, this.src)">
+        <img src="the_circle/TheCircle_Gallery05.png" onclick="view(event, this.src)">
+    </div>
+</div>
+
+<div id="viewer" class="viewer">
+    <img id="big">
+</div>
+
+<script>
+    function toggleGallery(){
+        document.getElementById('gallery').classList.toggle('active');
+        document.getElementById('music').classList.remove('active');
+    }
+
+    function closePanels(){
+        document.getElementById('gallery').classList.remove('active');
+        document.getElementById('music').classList.remove('active');
+        closeViewer();
+    }
+
+    function view(e, src){
+        e.stopPropagation(); // 이거 핵심
+        document.getElementById('big').src = src;
+        document.getElementById('viewer').style.display = 'block';
+    }
+
+    function closeViewer(){
+        document.getElementById('viewer').style.display = 'none';
+    }
+
+    document.getElementById('big').onclick = function(){
+        closeViewer();
+    };
+</script>
+
+</body>
+</html>
