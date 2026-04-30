@@ -3,18 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <title>project silence</title>
 
     <style>
         h1 { font-size: clamp(40px, 10vw, 60px); }
         p  { font-size: clamp(12px, 3vw, 18px); }
         h2 { font-size: clamp(16px, 4vw, 24px); }
         h3 { font-size: clamp(12px, 3vw, 18px); opacity: 0.5 }
-        
-        :root {
-            /* 왼쪽 패널의 너비 공식 */
-            --panel-w: 8%;
-        }
         
         html, body {
             margin:0;
@@ -66,7 +61,7 @@
             position:fixed;
             top:0;
             left:-500px; /* width보다 크게 */
-            width:var(--panel-w);
+            width:10%;
             height:100%;
             background:rgba(0,0,0,0.8);
             padding:1px;
@@ -75,6 +70,17 @@
             z-index:10;
         }
         .panel.active { left:0; }
+        
+        @media (orientation: portrait)
+        {
+            .panel {
+                top:-15%;
+                left:0;
+                width:100%;
+                height:calc(12% + clamp(12px, 3vw, 18px));
+            }
+            .panel.active { top:0; }
+        }
 
         /* 닫기 버튼 */
         .close-btn {
@@ -88,6 +94,11 @@
             display:grid;
             grid-template-columns:repeat(1,1fr);
             gap:1px;
+        }
+        @media (orientation: portrait) {
+            .grid {
+                grid-template-columns:repeat(5, 1fr);
+            }
         }
         .grid img {
             width:100%;
@@ -108,10 +119,18 @@
             /* 뷰어 주변 여백을 반투명 검정으로 채움 */
             background-color: rgba(0, 0, 0, 0.6);
 
-            z-index:20;
+            z-index:5;
             pointer-events:none; /* 클릭 비허용 */
         }
-
+        @media (orientation: portrait)
+        {
+            .viewer {
+                left: 0;
+                top: 12%;
+                width: 100%;
+                height: calc(100vh - 12%);
+            }
+        }
         .viewer img {
             position: relative;
             width: 100%;
