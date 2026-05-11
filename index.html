@@ -60,6 +60,13 @@
             text-align:center;
         }
 
+        .close {
+            position: absolute;
+            bottom:10vh;
+            width:100%;
+            text-align:center;
+        }
+        
         a { color:white; text-decoration:none; cursor:pointer; }
         a:hover { text-decoration:underline; }
 
@@ -81,20 +88,22 @@
             transition: 0.25s;
             padding: 40px;
             z-index: 15;
+            border: none;
         }
 
         .pannel.active {
             top: 0vh;
         }
-
-        .md-content {
-            max-width: 800px;
-            margin: auto;
-            color: #cfcfd4;
-            line-height: 1.7;
+        
+        .press {
+            position: fixed;
+            right: 0;
+            top: 0;
+            width: 100%;
+            height: 90vh;
+            border: none;
+            display: none;
         }
-
-        .md-content h1, h2, h3 { color:white; }
     </style>
 </head>
 
@@ -124,7 +133,7 @@
     <!-- NAV -->
     <div class="presskit">
         <h2>
-            <a onclick="showMD()">Press View</a>
+            <a onclick="showPannel()">Press View</a>
             &nbsp&nbsp<span style="font-size: 75%; opacity: 0.5">|</span>&nbsp&nbsp
             <a href="https://drive.google.com/drive/folders/1vjKjJJCvjZtkGP8RUVbkIBQJGB02W_-1?usp=sharing" target="_blank">Media</a>
         </h2>
@@ -137,35 +146,19 @@
 
 <!-- MD PRESS VIEW -->
 <div id="pannel" class="pannel">
-    <p style="text-align:right"><a onclick="closeMD()">[ x ]</a></p>
-    <div class="md-content" id="md-content">Loading...</div>
+        <iframe src="presskit.html" id="press" class="press"></iframe>
+        <p><a onclick="closePannel()" id="close" class="close"><b>[ x ]</b></a></p>
 </div>
 
 <script>
-    function view(src){
-        document.getElementById('big').src = src;
-        document.getElementById('viewer').style.display = 'flex';
-    }
-
-    function closeMD(){
+    function closePannel(){
         document.getElementById('pannel').classList.remove('active');
+        document.getElementById('press').style.display = 'none';
     }
 
-    function showMD(){
-        const md = document.getElementById('pannel').classList.add('active');
-        loadMD();
-    }
-
-    async function loadMD(){
-        try {
-            const res = await fetch('presskit.md');
-            const text = await res.text();
-            document.getElementById('md-content').innerHTML =
-                marked.parse(text);
-        } catch(e){
-            document.getElementById('md-content').innerHTML =
-                "<p style='color:red;'>Failed to load presskit.md</p>";
-        }
+    function showPannel(){
+        document.getElementById('pannel').classList.add('active');
+        document.getElementById('press').style.display = 'flex';
     }
 </script>
 
