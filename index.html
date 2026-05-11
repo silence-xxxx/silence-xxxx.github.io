@@ -1,140 +1,100 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>project silence</title>
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <title>Saga · The Circle</title>
+
+    <!-- MARKED (MD parser) -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
     <style>
         h1 { font-size: clamp(40px, 10vw, 60px); display: inline-block; white-space: nowrap;}
         p  { font-size: clamp(12px, 3vw, 18px); }
         h2 { font-size: clamp(16px, 4vw, 24px); display: inline-block; white-space: nowrap;}
         h3 { font-size: clamp(12px, 3vw, 18px); opacity: 0.5 }
-        
-        
-        
+
         html, body {
             margin:0;
             padding:0;
+            width:100%;
+            height:100vh;
             background:black;
             color:white;
             font-family:sans-serif;
             overflow:hidden;
-
         }
 
-        /* 배경 */
         .bg {
             position:fixed;
             width:100%;
             height:100vh;
-            background:#000000 center/cover no-repeat;
+            background:#000;
             z-index:-1;
         }
 
         .center {
             position:fixed;
             left:50%;
-            top:49%;
-            width: 100%;
+            top:48vh;
+            width:100%;
             transform:translate(-50%, -100%);
             text-align:center;
         }
 
-        .buttons {
+        .description {
             position:fixed;
             left:50%;
-            top:51%;
+            top:51vh;
+            transform:translate(-50%, 0%);
+            text-align:center;
+            max-width: 900px;
+        }
+
+        .presskit {
+            position:fixed;
+            left:50%;
+            bottom:18vh;
             transform:translate(-50%, 0%);
             text-align:center;
         }
-        
-        .buttons a {
-            margin:0;
-            color:white;
-            text-decoration:none;
-            cursor:pointer;
-        }
 
-        .panel {
+        a { color:white; text-decoration:none; cursor:pointer; }
+        a:hover { text-decoration:underline; }
+
+        .copyright {
             position:fixed;
-            top:0;
-            left:-500px;
-            width:10%;
-            height:100%;
-            background:rgba(0,0,0,0.8);
-            padding:1px;
-            transition:0.2s;
-            overflow-y:auto;
-            z-index:10;
-        }
-        .panel.active { left:0; }
-        
-        @media (orientation: portrait)
-        {
-            .panel {
-                top:-15%;
-                left:0;
-                width:100%;
-                height:calc(12% + clamp(12px, 3vw, 18px));
-            }
-            .panel.active { top:0; }
-        }
-
-        .close-btn {
-            margin-bottom:10px;
-            cursor:pointer;
-            opacity:0.7;
-        }
-
-        .grid {
-            display:grid;
-            grid-template-columns:repeat(1,1fr);
-            gap:1px;
-        }
-        @media (orientation: portrait) {
-            .grid {
-                grid-template-columns:repeat(5, 1fr);
-            }
-        }
-        .grid img {
+            bottom:5vh;
             width:100%;
-            cursor:pointer;
+            text-align:center;
         }
 
-        .viewer {
+        .pannel {
             position: fixed;
-            left: calc(10% + 2px);
-            top: 0;
-            width: calc(90% - 2px);
-            height: 100vh;
-
-            display: none;
-            align-items: center;
-            justify-content: center;
-
-            background-color: rgba(0, 0, 0, 0.6);
-
-            z-index:20;
-            pointer-events:auto; /* 클릭 허용 */
-        }
-        @media (orientation: portrait)
-        {
-            .viewer {
-                left: 0;
-                top: 12%;
-                width: 100%;
-                height: calc(100vh - 12%);
-            }
-        }
-        .viewer img {
-            position: relative;
+            right: 0%;
+            top: 100vh;
             width: 100%;
             height: 100vh;
-            object-fit:contain;
-            pointer-events:auto;
-            cursor:pointer;
+            background: #0f0f12;
+            overflow-y: auto;
+            transition: 0.25s;
+            padding: 40px;
+            z-index: 15;
         }
+
+        .pannel.active {
+            top: 0vh;
+        }
+
+        .md-content {
+            max-width: 800px;
+            margin: auto;
+            color: #cfcfd4;
+            line-height: 1.7;
+        }
+
+        .md-content h1, h2, h3 { color:white; }
     </style>
 </head>
 
@@ -142,56 +102,71 @@
 
 <div class="bg"></div>
 
-<div class="center">
-    <h1>( ' x ' )</h1>
-</div>
-
-<div class="buttons">
-    <h3>- project silence -</h3>
-    <h2><a onclick="toggleGallery()">Saga · The Circle</a></h2>
-</div>
-
-<!-- 갤러리 -->
-<div id="gallery" class="panel">
-    <div class="close-btn" onclick="closePanels()">[ X ]</div>
-    <div class="grid">
-        <img src="the_circle/TheCircle_Gallery01.png" onclick="view(event, this.src)">
-        <img src="the_circle/TheCircle_Gallery02.png" onclick="view(event, this.src)">
-        <img src="the_circle/TheCircle_Gallery03.png" onclick="view(event, this.src)">
-        <img src="the_circle/TheCircle_Gallery04.png" onclick="view(event, this.src)">
-        <img src="the_circle/TheCircle_Gallery05.png" onclick="view(event, this.src)">
+    <!-- TRAILER -->
+    <div class="center">
+    <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/tqqHMIIZf-g?si=dNk51YNf9OVU6Jfz"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-</div>
 
-<div id="viewer" class="viewer">
-    <img id="big">
+<!-- DESCRIPTION -->
+    <div class="description">
+        <p>
+            "The Holy Sword has been drawn. Now gather the Knights of the Round Table to rebuild the kingdom—and watch it break."<br>
+            <br>
+            <b><i><span style="color:#46bdc6;">Saga · The Circle</span></i></b> is a literary CRPG inspired by tabletop roleplaying. Read, interpret, and choose as you shape the rise and fall of Arthurian Britain.<br>
+            <br>
+            <a href="https://store.steampowered.com/app/4637040/Saga__The_Circle/" target="_blank"><img src="icon_WishlistOnSteam.png"></a><br>
+            <br>
+        </p>
+    </div>
+    <!-- NAV -->
+    <div class="presskit">
+        <h2>
+            <a onclick="showMD()">Press View</a>
+            &nbsp&nbsp<span style="font-size: 75%; opacity: 0.5">|</span>&nbsp&nbsp
+            <a href="https://drive.google.com/drive/folders/1vjKjJJCvjZtkGP8RUVbkIBQJGB02W_-1?usp=sharing" target="_blank">Media</a>
+        </h2>
+    </div>
+
+    <div class="copyright">
+        <h3>Copyright 2026 by project silence. All rights reserved. ( ' x ' )</h3>
+    </div>
+
+
+<!-- MD PRESS VIEW -->
+<div id="pannel" class="pannel">
+    <p style="text-align:right"><a onclick="closeMD()">[ x ]</a></p>
+    <div class="md-content" id="md-content">Loading...</div>
 </div>
 
 <script>
-    function toggleGallery(){
-        document.getElementById('gallery').classList.toggle('active');
-        document.getElementById('music').classList.remove('active');
-    }
-
-    function closePanels(){
-        closeViewer();
-        document.getElementById('gallery').classList.remove('active');
-        document.getElementById('music').classList.remove('active');
-    }
-
-    function view(e, src){
-        e.stopPropagation(); // 이거 핵심
+    function view(src){
         document.getElementById('big').src = src;
         document.getElementById('viewer').style.display = 'flex';
     }
 
-    function closeViewer(){
-        document.getElementById('viewer').style.display = 'none';
+    function closeMD(){
+        document.getElementById('pannel').classList.remove('active');
     }
 
-    document.getElementById('big').onclick = function(){
-        closeViewer();
-    };
+    function showMD(){
+        const md = document.getElementById('pannel').classList.add('active');
+        loadMD();
+    }
+
+    async function loadMD(){
+        try {
+            const res = await fetch('presskit.md');
+            const text = await res.text();
+            document.getElementById('md-content').innerHTML =
+                marked.parse(text);
+        } catch(e){
+            document.getElementById('md-content').innerHTML =
+                "<p style='color:red;'>Failed to load presskit.md</p>";
+        }
+    }
 </script>
 
 </body>

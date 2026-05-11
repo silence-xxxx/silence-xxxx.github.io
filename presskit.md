@@ -1,0 +1,156 @@
+# Saga · The Circle — Press Kit
+
+---
+
+>## A Note from "silence"
+>
+>*Saga · The Circle* is a deeply personal work shaped by a clear creative vision.  
+>The game is built around interpretation, atmosphere, and the quiet space between words. Like the legends that inspired it, not everything is meant to be fully explained. Some meanings are left for each player to discover and carry in their own way.
+>
+>I sincerely welcome the different emotions, interpretations, and discussions players may bring to this world. At the same time, I hope the same respect given to the creative boundaries of novels, music, and film can exist here as well.
+>
+>Not every mystery needs an official answer. Not every work is meant to change endlessly after release. Sometimes, a story simply wishes to remain as it is.
+>
+>This is not a refusal of dialogue, but a respect for perspective:  
+>interpretations belong to the audience, while authorship remains its own space. I hope both can coexist with mutual respect.
+>
+>Thank you for respecting the silence that allows the myth to speak.
+>
+><div style="text-align: right">( ' x ' )</div>
+
+---
+
+# Game Overview
+
+| Title | Saga · The Circle |
+|:----|:---- |
+| Genre | Literary CRPG / Narrative RPG |
+| Platform | PC (Steam) |
+| Price | Planned at $14.99 USD|
+| Playtime | Estimated 12–18 hours |
+| Text Volume | Approximately 80,000+ English words |
+| Choices | 120+ meaningful choices and branching outcomes |
+| Developer | project silence |
+| Created by | Sey - Director·Writer·Artist·Composer·Programmer |
+
+---
+
+# About the Game
+
+## Build the Round Table. Watch It Break.
+
+*Saga · The Circle* is a literary CRPG inspired by the imagination and tension of tabletop roleplaying, focused on reading, interpretation, and meaningful choices.
+
+Where Arthurian legend meets political tragedy, you watch King Arthur rise, gather the Knights of the Round Table yourself, and watch them tear the kingdom apart.
+
+Travel across a fractured Britain haunted by monsters, invaders, prophecies, and disorder. Investigate murders in the eastern territories. Hunt witches in cursed swamps. Embark on the quest for the Holy Grail beyond fog-covered deserts and forgotten ruins.
+
+But as the kingdom grows, so do its cracks.
+
+Some knights believe Arthur’s dream can save Britain. Others believe it will destroy it. And beside the Round Table, Mordred is waiting for your answer.
+
+---
+
+## Your Choices Shape the Knight You Become
+
+Your journey is not driven by simple good-and-evil systems.
+
+Instead, your actions slowly shape your values:
+
+- Idealism or Realism  
+- Loyalty or Independence  
+- Freedom or Order  
+- Honor or Pragmatism  
+
+These influence:
+- Dialogue  
+- Relationships  
+- Available choices  
+- Political alliances  
+- And ultimately, the ending itself  
+
+Will you remain loyal to Arthur until the very end?  
+Will you side with Mordred and help build a new kingdom from the ashes?  
+Or will you be the head that wears a crown?
+
+---
+
+## Explore, Investigate, Fight — and Race Against Time
+
+Travel and explore freely across Britain filled with:
+- Dynamic encounters  
+- Branching investigations  
+- Random events  
+- Dangerous roads and wilderness camps  
+
+But the world does not wait for you.
+
+Every investigation, question, journey, and battle consumes time:
+- Evidence fades  
+- Witnesses disappear  
+- Conflicts escalate  
+- The kingdom slowly falls into chaos  
+
+As night falls, exhaustion becomes another enemy. Sleep at inns, rest in the wild, or continue pushing forward at your own risk.  
+The more time you spend chasing answers, the more the kingdom changes behind you.
+
+---
+
+## Tactical Turn-Based Combat with Turn Steal Mechanics
+
+Combat combines classic tabletop-inspired turn-based battles with aggressive turn-steal mechanics inspired by real-time action systems.
+
+You consume different amounts of turns depending on your declared actions and equipment. A longsword slash, a large shield guard, and a war hammer smash all move at different rhythms.
+
+So do enemies, and each has its own combos.
+
+Predict enemy actions and break their rhythm with:
+- Perfect Guard  
+- Guard Break  
+- Interrupt  
+
+Understanding your opponent matters.  
+Fight carelessly, you die in seconds.  
+Fight skillfully, you dominate the battlefield.
+
+---
+
+## A Literary Roleplaying Experience Built Around Subtext
+
+This game is designed around immersive reading and interpretation. Instead of learning layers of overwhelming mechanics, you are expected to read between the lines.
+
+The prose is novelistic, dense, and sensory, focused on atmosphere and emotional tension, while dialogue is cinematic and brief, often hiding true intentions beneath the surface.
+
+Even though they are hiding, each character has strong personality and belief. In contrast, your protagonist is intentionally obscured, waiting for your choices.
+
+Your story is shaped by how you interpret people, situations, and unspoken intentions, and by the choices you make.
+
+---
+
+## Hand-Drawn Art and Lyrical Music
+
+The world unfolds through:
+- hand-drawn ink illustrations inspired by classical engravings  
+- animated brush strokes on parchment  
+- expressive dice rolls  
+- insert cuts during dramatic scenes  
+- dynamic combat effects  
+- acoustic orchestral music  
+- environmental spatial audio  
+
+Together, the game aims to recreate the feeling of reading — and living — a forgotten medieval legend.
+
+---
+
+## The Legend Ends in War
+
+The Holy Grail will be found.  
+Camelot will fall.  
+The Round Table will split apart.
+
+When the final battle begins, the knights you once gathered may stand beside you…  
+—or against you.
+
+And when the war is over, only one question will remain:
+
+**What kind of knight were you?**
