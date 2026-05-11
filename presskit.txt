@@ -23,7 +23,7 @@ Game Overview
 
 Title:		Saga · The Circle
 Genre:		Literary CRPG / Narrative RPG
-Platform:	PC (Steam)
+Platform:	Steam (https://store.steampowered.com/app/4637040)
 Price: 		Planned at $14.99 USD
 Playtime: 	12–18 hours (estimated)
 Text: 		Volume80,000+ English words
