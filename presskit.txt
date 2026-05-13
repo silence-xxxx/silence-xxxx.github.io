@@ -1,4 +1,4 @@
-### Saga · The Circle —  Kit ###
+### [Saga · The Circle] — Press Kit ###
 
 A Note from "silence"
 
@@ -21,7 +21,7 @@ Thank you for respecting the silence that allows the myth to speak.
 
 Game Overview
 
-Title:		Saga · The Circle
+Title:		[Saga · The Circle]
 Genre:		Literary CRPG / Narrative RPG
 Platform:	Steam (https://store.steampowered.com/app/4637040)
 Price: 		Planned at $14.99 USD
@@ -31,6 +31,7 @@ Choices: 	120+ meaningful branching choices
 Developer: 	project silence
 Created by: 	Sey — Director · Writer · Artist · Composer · Programmer
 
+[Saga · The Circle] is a Literary RPG — a narrative-driven CRPG that seeks to recreate the depth of tabletop role-playing through imagination and immersion shaped by reading and interpretation.
 
 
 About the Game
