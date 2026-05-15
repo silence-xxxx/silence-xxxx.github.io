@@ -1,146 +1,141 @@
-### [Saga · The Circle] — Press Kit ###
+#### [Saga · The Circle] — Press Kit ####
 
-A Note from "silence"
+------------------------------------------------------------------------------------------------A Note from "silence"
+------------------------------------------------------------------------------------------------
 
-[Saga · The Circle] is a deeply personal work shaped by a clear creative vision.
+[Saga · The Circle] is built upon a belief in the player’s freedom of interpretation, imagination, and immersion born through reading.
 
-This game is built around interpretation, atmosphere, and the quiet space between words. Like the legends that inspired it, not everything is meant to be fully explained. Some meanings are left for each player to discover and carry in their own way.
-
-I sincerely welcome the different emotions, interpretations, and discussions players may bring to this world. At the same time, I hope the same respect given to the silence and creative boundaries of novelists, musicians, and filmmakers can exist here as well.
-
-Not every mystery needs an official answer. Not every work is meant to change endlessly after release. Sometimes, a story simply wishes to remain as it is.
-
-This is not a refusal of dialogue, but a respect for perspective:
-interpretations belong to the audience, while authorship remains its own space. I hope both can coexist with mutual respect.
-
-Thank you for respecting the silence that allows the myth to speak.
+I sincerely hope both your interpretations and those shared within the community can be respected as they are. And in return, I hope you can understand that the author may sometimes choose to answer with silence.
 
 ( ' x ' )
 
 
 
-Game Overview
+------------------------------------------------------------------------------------------------
+Quick Overview
+------------------------------------------------------------------------------------------------
 
 Title:		[Saga · The Circle]
 Genre:		Literary CRPG / Narrative RPG
 Platform:	Steam (https://store.steampowered.com/app/4637040)
 Price: 		Planned at $14.99 USD
 Playtime: 	12–18 hours (estimated)
-Text: 		Volume80,000+ English words
+Text Volume:	80,000+ English words
 Choices: 	120+ meaningful branching choices
 Developer: 	project silence
 Created by: 	Sey — Director · Writer · Artist · Composer · Programmer
 
-[Saga · The Circle] is a Literary RPG — a narrative-driven CRPG that seeks to recreate the depth of tabletop role-playing through imagination and immersion shaped by reading and interpretation.
+[Saga · The Circle] is a Literary CRPG — a narrative-driven RPG that seeks to recreate the depth of tabletop role-playing through imagination and immersion shaped by reading and interpretation.
 
 
-About the Game
 
-Build the Round Table. Watch It Break.
+------------------------------------------------------------------------------------------------About the Game
+------------------------------------------------------------------------------------------------
 
-[Saga · The Circle] is a literary CRPG inspired by the imagination and tension of tabletop roleplaying, focused on reading, interpretation, and meaningful choices.
+## 🛡️ Build the Round Table, Watch It Break ##
 
-Where Arthurian legend meets political tragedy, you watch your friend, King Arthur's rise, gather the Knights of the Round Table yourself, and watch them tear the kingdom apart.
+[Saga · The Circle] is a Literary CRPG inspired by the imagination, tension, and freedom of tabletop roleplaying.
 
-Travel across a fractured Britain haunted by monsters, invaders, prophecies, and disorder. Investigate murders in the eastern territories. Hunt witches in cursed swamps. Embark on the quest for the Holy Grail beyond fog-covered deserts and forgotten ruins.
+Set in a fractured Britain where Arthurian legend meets political tragedy, you witness King Arthur’s rise beside him as a friend, gather the Knights of the Round Table yourself, and watch the kingdom slowly tear itself apart.
+
+Travel across monster-haunted roads, cursed swamps, forgotten ruins, and distant territories consumed by invasion, prophecy, and disorder. Investigate murders near the eastern borders. Hunt witches hidden beneath rotting marshes. Venture beyond fog-covered deserts in search of the Holy Grail.
 
 But as the kingdom grows, so do its cracks.
 
-Some knights believe Arthur’s dream can save Britain. Others believe it will destroy it. And beside the Round Table, Mordred is waiting for your answer.
+Some knights believe Arthur’s dream can save Britain.
+Others believe it will destroy it.
+And beside the Round Table, Mordred is waiting for your answer.
 
 
 
-🎲 Your Choices Shape the Knight You Become
+## 🧩 The World Remembers Your Ideals ##
 
-Your journey is not driven by simple good-and-evil meters.
+In this game, the world remembers not only your deeds, but the ideals you chose to uphold.
 
-Instead, your actions slowly shape your values:
-- Idealism or Realism
-- Loyalty or Independence
-- Freedom or Order
-- Honor or Pragmatism
+Instead of traditional levels and attributes, your character is shaped through knightly virtues such as Valor, Wisdom, Endurance, and Renown.
 
-These influence:
+Meanwhile, your journey gradually shapes the kind of knight you become.
+Not through simple good-and-evil meters, but through the way the world responds to:
+- the ideals you defend
+- the compromises you accept
+- the lines you choose to cross
+- ...and everything in between
+
+These quietly influence:
 - Dialogue
 - Relationships
-- Available choices
 - Political alliances
+- The atmosphere of the kingdom
+- The music throughout your journey
 - And ultimately, the ending itself
 
 Will you remain loyal to Arthur until the very end?
-Will you side with Mordred and help build a new kingdom from the ashes?
+Will you stand to build a new kingdom from the ashes?
 Or will you be the head that wears a crown?
 
 
 
-⏳ Explore, investigate, fight and Race Against Time
+## ⏳ Explore, Investigate, Survive ##
 
-Travel and explore freely across Britain filled with:
+Travel freely across Britain through a tabletop-inspired field exploration system filled with:
 - Dynamic encounters
 - Branching investigations
-- Random events
 - Dangerous roads and wilderness camps
+- Random events and hidden discoveries
 
 But the world does not wait for you.
-Every investigation, question, journey, and battle consumes time:
+Every investigation, journey, battle, and conversation consumes time:
 - Evidence fades
 - Witnesses disappear
 - Conflicts escalate
-- The kingdom falls into chaos
+- And the kingdom slowly descends into chaos
 
-As night falls, exhaustion becomes another enemy. Sleep at inns, rest in the wild, or continue pushing forward at your own risk.
-The more time you spend chasing answers, the more the kingdom changes behind you.
+As night falls, exhaustion becomes another enemy. Rest at inns, sleep beside dying campfires, or continue forward at your own risk.
+
+Just remember this:
+The more time you spend chasing answers,
+the more the kingdom changes behind you.
 
 
 
-⚔️ Tactical Turn-Based Combat With Turn Steal Mechanics
+## ⚔️ Aggressive Turn-Based Combat ##
 
 Combat combines classic tabletop-inspired turn-based battles with aggressive turn-steal mechanics inspired by real-time action games.
 
-You consume a different count of turns depending on your declared actions and equipment. A longsword slash, a large shield guard, and a war hammer smash all move at different rhythms.
-So do Enemies, and each has own combos.
+Different weapons and actions consume different amounts of time. A longsword slash, tower shield guard, and war hammer strike all move at different rhythms.
+So do enemies, and each has own combos as well.
 
-Predict enemy actions, break their combo with:
-- Perfect Guard
-- Guard Break
-- Interrupt
+Predict enemy moves, break their combo with:
+- Perfect Guards
+- Guard Breaks
+- Interrupts
 
-Understanding your opponent matters.
-Fight carelessly, you die in seconds.
-Fight skillfully, you dominate the battlefield.
-
-
-
-✍️ A Literary Roleplaying Experience Built Around Subtext
-
-This game is designed around immersive reading and interpretation. Instead of learning layers of overwhelming mechanics, you are expected to read between the lines.
-The prose is novelistic, dense, and sensory, focused on atmosphere and emotional tension, while dialogue is cinematic and brief, hiding true intentions beneath the surface.
-
-Even though they are hiding, each character has strong personality and belief. Contrary to it, your protagonist is intentionally obscured, waiting for your choices.
-
-Your story is shaped by how you interpret people, situations, and unspoken intentions, and by the choices you make.
+Fight carelessly, die within seconds.
+Fight skillfully, dominate the battlefield.
 
 
 
-🎨 Hand-Drawn Art and Lyrical Music
+## ✍️ Reading as Roleplaying ##
 
-The world unfolds through:
-- Hand-drawn ink drawing in a reimagined classic illustrations
-- Animated brush strokes on parchment
-- Expressive dice rolls
-- Insert cuts during dramatic scenes
-- Dynamic combat effects
-- Acoustic orchestral music
-- Environmental spatial audio
+This game is built upon interpretation, imagination, and immersion through reading.
 
-Combined with those, the game aims to recreate the feeling of reading — and living — a forgotten medieval legend.
+Rather than overwhelming the player with constant explanations and mechanics, the game asks you to read between the lines.
+
+The prose is novelistic, dense, and sensory, while dialogue remains brief and cinematic. Neither fully explains truth or intention beneath the surface. Even your protagonist is intentionally obscured.
+
+Hand-drawn ink illustrations on parchment, expressive dice rolls, and adaptive orchestral music work together to bridge literary interpretation and gameplay immersion — but the game does not show you everything.
+
+What shapes your journey is your choices, convictions, and the way you interpret the world around you. So read — between implication, silence, tone, and contradiction.
+
+Are you ready to live through a forgotten medieval legend?
+All you need is your imagination.
 
 
 
-The Legend Ends in War
+## ⚖️ The Legend Ends in War ##
 
 The Holy Grail will be found.
-Camelot will fall.
+Caerleon will fall.
 The Round Table will split apart.
 
 When the final battle begins, the knights you once gathered may stand beside you…
@@ -148,3 +143,238 @@ When the final battle begins, the knights you once gathered may stand beside you
 
 And when the war is over, only one question will remain:
 What kind of knight were you?
+
+
+
+------------------------------------------------------------------------------------------------
+Creator's Notes
+------------------------------------------------------------------------------------------------
+
+[EN]
+
+## Core Design Philosophy ##
+
+[Saga · The Circle] is built upon my personal tabletop RPG experiences.
+
+Just as players do in tabletop roleplaying, the player is expected to observe, infer, and imagine beyond what is directly presented.
+
+And just as a dungeon master does at the table, the game intentionally hides many words, internal measures, and systems instead of explaining everything outright — trusting the player to interpret and role-play naturally.
+
+This game is built on the belief that roleplaying becomes most powerful in that space between what is spoken and what is understood.
+
+
+
+## Convictions, Integrity, and Roleplaying ##
+
+While [Saga · The Circle] includes visible knightly virtues such as Valor, Wisdom, Endurance, and Renown, the game also tracks hidden values beneath the surface:
+Convictions and personal integrity.
+
+These are not morality meters, nor systems that label choices as simply right or wrong. Instead, they reflect what the player chooses to uphold throughout the journey.
+
+They are shaped through actions, relationships, loyalties, compromises, and the way the player carries themselves across the world. These hidden values quietly influence character reactions, atmosphere, music, political relationships, and ultimately the ending itself.
+
+A player may still be a Knight of the Round Table, yet be remembered very differently:
+as one who never lost own human warmth beside the King,
+as one who pursued the ideals of a coming kingdom,
+or as something else entirely.
+
+These values are never exposed directly through UI or system messages. They remain hidden, because I want players to role-play naturally rather than optimize invisible numerical systems.
+
+
+
+## Literary RPG - A Reading as Gameplay ##
+
+I describe [[Saga · The Circle]] as a Literary CRPG, rather than a Narrative RPG.
+
+Being text-based does not simply mean having a larger script or more choices. Instead, this game explores another way of bringing the tabletop RPG experience into video games:
+
+Reading itself.
+
+Interpretation, imagination, and immersion born through the exchange of words are, to me, at the heart of tabletop roleplaying. I also love cinematic cutscenes, massive systems, and flashy action. But at the same time, I believe the player’s imagination can sometimes replace them — and that literary reading can become its own form of gameplay.
+
+For this reason, the writing throughout the game follows very deliberate direction.
+
+The prose focuses heavily on physical sensation, aiming for a novelistic experience. Dialogue, meanwhile, is intentionally brief and restrained, seeking a cinematic rhythm. Neither fully presents objective truth. Instead, both invite the player to infer meaning for themselves.
+
+I hope players can discover their own sense of interpretation, imagination, and immersion through reading here.
+
+
+
+## Visual Direction ##
+
+The visual direction of [[Saga · The Circle]] is designed to support the game’s literary structure — bridging written interpretation and interactive immersion.
+
+The art style combines hand-drawn ink illustration, parchment textures, restrained animation, and insert cuts inspired by classic fantasy illustrations and old storybooks.
+
+UI, animation, and scene composition are intentionally understated.
+
+I hope players can use their imagination to see beyond cinematic spectacles or photorealism, looking between what is shown and what is intentionally left blank.
+
+
+
+## Music and Audio Direction ##
+
+Music and audio in [[Saga · The Circle]] are treated not simply as background sound, but as part of the storytelling itself.
+
+The goal is for the soundtrack to feel as though it remembers the player together with the world itself.
+
+Each track is composed through a classical thematic approach centered around recurring leitmotifs tied to friendship, knighthood, the mystical, adventure, or fracture.
+
+But as the player’s convictions, relationships, and emotional journey gradually evolve, the music shifts alongside them through variations in orchestration, instrumentation, and even the theme.
+
+All SFXs, ambience, and spatial audio are used to reinforce immersion — not only within physical spaces, but within emotional states such as hope, tension, and collapse.
+
+
+
+## Aggressive Combat System ##
+
+Combat in [[Saga · The Circle]] may resemble a classic turn-based CRPG on the surface, but its core is built around aggressive turn-steal mechanics.
+
+The system is designed to preserve the strengths of turn-based combat while introducing the pressure, timing, and momentum of real-time action gameplay.
+
+Players have five fundamental actions:
+- Attack
+- Skill
+- Guard
+- Dodge
+- Use Items
+
+Each action consumes a different number of turns depending on equipment, and is built around strong tactical match-ups:
+- Guard can trigger a Perfect Guard against Attacks.
+- Skills cause Guard Breaks against Guards.
+- Attack can trigger an Interrupt against Skill.
+- Dodge can evade both Attack and Skill, though not always safely.
+- Using Items is powerful, but consumes limited resources.
+
+The system applies equally to enemies.
+
+Enemies also follow their own combo structures — scripted patterns that execute sequences of actions. This allows players to gradually learn, predict, and counter enemy moves.
+
+The result is a combat system designed to feel dangerous, physical, and reactive, where understanding an opponent matters as much as raw strength.
+
+
+
+------------------------------------------------------------------------------------------------
+
+[KR]
+
+핵심 게임디자인 철학
+
+[Saga · The Circle]은 저의 개인적인 TRPG 경험을 바탕으로 개발되었습니다.
+
+TRPG 플레이어들이 그러하듯, 플레이어는 이 게임에서 주어진 정보 너머를 관찰하고, 추론하고, 상상해야 합니다.
+
+또한 DM이 그러하듯, 저는 플레이어의 자연스러운 해석과 롤플레이를 믿고, 게임의 모든 것을 드러내어 설명하는 대신 많은 정보, 내부적인 수치, 시스템들을 숨겨두었습니다.
+
+게임에 담긴 언어들과 플레이어가 이해한 것, 그 간극의 어딘가에 가장 흥미로운 경험이 있을 것이라 믿습니다.
+
+
+
+신념, 고결함, 롤플레잉
+
+[Saga · The Circle]는 눈에 보이는 기사도의 미덕 - 무용, 지혜, 인내, 명성를 제시하지만, 더 중요한 점은 선택의 맥락 아래 숨겨진 가치관들을 지켜보고 있다는 점입니다:
+
+신념, 그리고 고결함.
+
+가치관은 선악 게이지, 혹은 옳고 그른 선택지가 아닙니다. 다만, 플레이어가 여정 동안 어떤 가치를 추구했는지, 그것을 온전히 지켜냈는지에 대한 기록입니다.
+
+가치관은 플레이어의 모든 선택들 - 행동, 관계, 충성, 타협, 태도 등을 통해 형성됩니다. 이 숨겨진 요소는 인물의 반응, 분위기, 음악, 정치적 관계, 궁극적으로는 엔딩에까지 조용히 영향을 미칩니다.
+
+플레이어가 동일하게 원탁의 기사의 칭호를 가지는 동안, 사람들에게 매우 다르게 인식될 수 있습니다:
+
+왕의 곁에서 인간미를 잃지 않은 인물로,
+다가올 왕국의 이상을 추구한 인물로,
+혹은 전혀 또 다른 존재로.
+
+가치관은 UI나 시스템을 통해 직접적으로 드러나지 않습니다. 플레이어가 시스템을 수치적으로 파고들어 빌드를 짜기보다, 자연스러운 롤플레이를 즐기기를 바라기 때문입니다.
+
+
+
+문학적 RPG - 읽기를 통한 게임플레이
+
+저는 [Saga · The Circle]을 내러티브 RPG가 아닌 문학적 CRPG로 설명하려 합니다.
+
+텍스트 기반의 게임이라는 것은 단순히 더 많은 대본, 더 많은 선택지를 의미하지 않습니다. 그 대신, 이 게임은 TRPG의 경험을 비디오 게임으로 가져오는 또 다른 방식을 제시합니다:
+
+바로 '읽기' 그 자체입니다.
+
+대화를 주고받으며 발생하는 해석, 상상력, 몰입감이 TRPG의 핵심이라고 생각합니다. 물론 저도 영화적인 컷신, 방대한 시스템, 화려한 액션을 좋아합니다. 하지만 동시에, 플레이어의 상상력이 때로는 그것들을 대체할 수 있다고 믿으며, 문학적 읽기가 그 자체로 하나의 게임플레이 형태가 될 수 있다고 생각합니다.
+
+그래서, 이 게임의 모든 글은 매우 신중하게 결정된 디렉션을 따라 쓰여졌습니다.
+
+지문은 시각, 청각, 후각 등의 감각의 묘사에 무게를 두어 소설을 읽는 듯한 경험을 추구합니다. 반면 대사는 간결하고 절제되어 영화를 보는 듯한 경험을 추구합니다. 서로 대비되는 리듬 속에서, 어느 쪽도 객관적인 진실을 완전히 제시하지는 않습니다. 대신, 플레이어가 스스로 의미를 추론하도록 초대합니다.
+
+플레이어들이 이 게임에서 읽기를 통해 자신만의 해석, 상상, 몰입을 발견할 수 있기를 바랍니다.
+
+
+
+비주얼 디렉션
+
+[Saga · The Circle]의 비주얼 디렉션은 게임의 문학적 구조를 뒷받침하도록 설계되었으며, 문학적 해석과 플레이적 몰입감 사이의 다리 역할을 합니다.
+
+손으로 그린 잉크 삽화, 양피지 질감, 제한된 애니메이션, 컷 이미지 연출이 만들어내는 일관된 아트 스타일은 고전 판타지 삽화와 어린시절 게임북에서 영감을 받았습니다.
+
+UI, 애니메이션, 그리고 장면 구성은 의도적으로 절제되어 있습니다.
+
+플레이어들이 상상력을 통해, 보여지는 것과 여백 사이에서, 영화적인 화려함이나 실사주의 너머를 볼 수 있길 바랍니다.
+
+
+
+음악 및 오디오 디렉션
+
+[Saga · The Circle]의 음악과 오디오는 단순한 배경으로 취급되지 않고, 스토리텔링의 일부로 다뤄집니다.
+
+게임 속 세계가 그러하듯, 배경음악이 플레이어를 지켜보는 듯한 느낌을 주는 것이 목표입니다.
+
+각 사운드트랙은 각각 우정·기사도·신비·모험·분열에 대한 주제 선율이 장면에 따라 변주되는 고전적인 접근으로 작곡되었습니다.
+
+하지만 플레이어의 여정이 신념, 관계, 그리고 감정적으로 점차 발전함에 따라, 음악 역시 편곡, 악기 편성, 심지어 주제 자체까지 변화하며 여정에 함께 합니다.
+
+또한 효과음, 환경음, 그리고 공간 음향은 물리적 공간 표현 뿐만 아니라 희망, 긴장, 붕괴와 같은 감정적 표현을 위해서도 활용됩니다.
+
+
+
+공격적 전투 시스템
+
+[Saga · The Circle]의 전투는 겉보기에는 고전적인 턴제 CRPG와 비슷해 보일 수 있지만, 공격적인 턴 탈취 시스템에 차별점이 있습니다.
+
+턴 탈취 시스템은 턴제 전투의 장점을 유지하면서, 실시간 액션 게임의 긴장감, 타이밍, 그리고 속도감을 느낄 수 있도록 설계되었습니다.
+
+플레이어는 5가지 기본 행동을 선언할 수 있습니다:
+- 공격
+- 기술
+- 방어
+- 회피
+- 아이템 사용
+
+각 행동마다 소모되는 턴 수가 다르며, 장비의 영향을 받습니다. 또한 각 행동은 강력한 상성을 가집니다:
+- 방어는 공격에 대해 '완벽한 방어'를 발동시킬 수 있습니다.
+- 기술은 방어에 대해 '방어 파괴'를 일으킵니다.
+- 공격은 기술에 대해 '차단'을 발동시킬 수 있습니다.
+- 회피는 공격과 기술 모두를 피할 수 있지만, 항상 안전한 것은 아닙니다.
+- 아이템 사용은 강력하지만, 제한된 자원을 소모합니다.
+
+턴 탈취 시스템은 적들에게도 동일하게 적용됩니다.
+
+한편, 적들은 각각 고유한 콤보, 즉 일련의 행동 선언을 순차적으로 하는 패턴을 가집니다. 이를 통해 플레이어는 점차적으로 적의 행동을 학습하고 예측하여 대응할 수 있습니다.
+
+결국, 이 위험하고 격렬하며 상호작용이 강한 전투 시스템에서는, 적을 이해하는 것이 능력치 만큼이나 중요합니다.
+
+
+
+------------------------------------------------------------------------------------------------
+Media
+------------------------------------------------------------------------------------------------
+
+
+Trailers
+
+- Youtube:
+https://youtu.be/tqqHMIIZf-g
+
+
+
+All GIFs·Screenshots·Artworks
+
+- Google Drive:
+https://drive.google.com/drive/folders/1vjKjJJCvjZtkGP8RUVbkIBQJGB02W_-1?usp=sharing
